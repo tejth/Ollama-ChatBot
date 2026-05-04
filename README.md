@@ -1,5 +1,8 @@
 # 🚀 Ollama Local Chat App
 
+<img width="1623" height="1004" alt="1" src="https://github.com/user-attachments/assets/b9809378-0b35-4db7-817d-39d1ab0467d0" />
+
+
 A sleek, minimal, and powerful **local AI chat application** built using:
 
 * ⚡ **Flask (Backend)**
